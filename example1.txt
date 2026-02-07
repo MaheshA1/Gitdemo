@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Hi - dev
+=======
+hi this is mahesh
+hello
+nani
+hi
+
+
+>>>>>>> origin/master
